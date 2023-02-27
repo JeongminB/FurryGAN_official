@@ -1,0 +1,13 @@
+clean_fid==0.1.15
+clip==1.0
+lmdb==1.2.1
+munch==2.5.0
+numpy==1.19.2
+Pillow==9.0.1
+pydantic==1.8.2
+scipy==1.7.0
+tensorfn==0.1.19
+torch==1.7.1
+torchvision==0.8.2
+tqdm==4.61.1
+wandb==0.12.10
